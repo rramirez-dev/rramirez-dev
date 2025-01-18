@@ -3,14 +3,7 @@
 As an industry certified Information Technology (IT) Professsional with over 10 years of experience covering a
 wide range of positions from Technical Support Specialist, IT Instructor, IT Technician, and Software Engineer.
 
-# What am I working on
-
-- I am an active attendee at the [iOS Dev Happy Hour](https://www.iosdevhappyhour.com)
-- I'm building iOS App, in UIKit and SwiftUI, such as [GitHub Followers](https://github.com/rramirez-dev/GitHub-Followers),
-  [Math Flash Cards](https://github.com/rramirez-dev/MathFlashCards), [Step Tracker](https://github.com/rramirez-dev/step-tracker)
-- I'm building backend services with .NET Core/Azure, NodeJs, and Firebase
-
-# Career Accomplishments
+# Career Highlights
 
 - Built Altep/Consillio concept-driven analysis and indentification application (**Riskcovery**)
   from the ground up as a memeber of a five person development team.
@@ -20,6 +13,13 @@ wide range of positions from Technical Support Specialist, IT Instructor, IT Tec
 # Education
 
 B.S. Computer Sceince, [Park University](http://www.park.edu)
+
+# What am I working on
+
+- I am an active attendee at the [iOS Dev Happy Hour](https://www.iosdevhappyhour.com)
+- I'm building iOS App, in UIKit and SwiftUI, such as [GitHub Followers](https://github.com/rramirez-dev/GitHub-Followers),
+  [Math Flash Cards](https://github.com/rramirez-dev/MathFlashCards), [Step Tracker](https://github.com/rramirez-dev/step-tracker)
+- I'm building backend services with .NET Core/Azure, NodeJs, and Firebase
 
 # What technologies am I using right now
 
