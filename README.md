@@ -3,7 +3,7 @@
 As an industry certified Information Technology (IT) Professsional with over 10 years of experience covering a
 wide range of positions from Technical Support Specialist, IT Instructor, IT Technician, and Software Engineer.
 
-# Career Highlights
+# Notable Software Projects 
 
 - Built Altep/Consillio concept-driven analysis and indentification application (**Riskcovery**)
   from the ground up as a memeber of a five person development team.
