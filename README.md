@@ -68,7 +68,7 @@ Collaborated with [Mikaela Caron](https://mikaelacaron.com) on her [Basic Car Ma
   displaying events and vehicle details.
 - Updated Firestore rules in the documentation.
 
-![Dashboard](/assets/images/dashboard-md.png) ![Settings](/assets/images/settings-md.png) ![Odometer](/assets/images/odometer-md.png)
+![Dashboard](/assets/images/dashboard-light.png#gh-light-mode-only) ![Dashboard](/assets/images/dashboard-dark.png#dark-mode-only) ![Settings](/assets/images/settings-dark.png)![Settings](/assets/images/settings-light.png#gh-light-mode-only) ![Odometer](/assets/images/odometer-dark.png)![Odometer](/assets/images/odometer-light.png#gh-light-mode-only)
 
 <!--
 **rramirez-dev/rramirez-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
