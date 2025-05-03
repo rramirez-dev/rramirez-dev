@@ -6,7 +6,7 @@ wide range of positions from Technical Support Specialist, IT Instructor, IT Tec
 # Notable software projects of my career
 
 - Built Altep/Consillio concept-driven analysis and indentification application (**Riskcovery**)
-  from the ground up as a memeber of a five person development team.
+  from the ground up as a member of a five person development team.
 - Migratied the El Paso Intelligence Center (EPIC) legacy Law Enforcement and Alert application
   from Oracle Forms to a ASP.NET Web Applicaiton, as a member of a four person software team.
 
