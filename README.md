@@ -16,10 +16,11 @@ B.S. Computer Sceince, [Park University](http://www.park.edu)
 
 # What am I working on
 
+- Coverted Traversy Media's Appwrite NextJS App called to BookIT to Angular.I'm currently in the process of converting the App iOS using SwiftUI
 - I am an active attendee at the [iOS Dev Happy Hour](https://www.iosdevhappyhour.com)
 - I'm building iOS Apps in UIKit and SwiftUI such as [GitHub Followers](https://github.com/rramirez-dev/GitHub-Followers),
   [Math Flash Cards](https://github.com/rramirez-dev/MathFlashCards), [Step Tracker](https://github.com/rramirez-dev/step-tracker)
-- I'm building backend services with .NET Core/Azure, NodeJs, and Firebase
+- I'm building backend services with .NET Core/Azure, NodeJs, Firebase, Appwrite
 
 # What technologies am I using right now
 
@@ -37,6 +38,7 @@ B.S. Computer Sceince, [Park University](http://www.park.edu)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Databases
@@ -44,6 +46,7 @@ B.S. Computer Sceince, [Park University](http://www.park.edu)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=wh)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
 
 ### Industry Certifications
 
