@@ -16,7 +16,7 @@ B.S. Computer Sceince, [Park University](http://www.park.edu)
 
 # What am I working on
 
-- Coverted Traversy Media's Appwrite NextJS App called to BookIT to Angular.I'm currently in the process of converting the App iOS using SwiftUI
+- Coverted Traversy Media's Appwrite NextJS App called BookIT to Angular. I'm currently in the process of converting the App iOS using SwiftUI
 - I am an active attendee at the [iOS Dev Happy Hour](https://www.iosdevhappyhour.com)
 - I'm building iOS Apps in UIKit and SwiftUI such as [GitHub Followers](https://github.com/rramirez-dev/GitHub-Followers),
   [Math Flash Cards](https://github.com/rramirez-dev/MathFlashCards), [Step Tracker](https://github.com/rramirez-dev/step-tracker)
