@@ -16,7 +16,8 @@ B.S. Computer Sceince, [Park University](http://www.park.edu)
 
 # What am I working on
 
-- Coverted Traversy Media's Appwrite NextJS App called BookIT to Angular. I'm currently in the process of converting the App to iOS using SwiftUI
+- Participating in the [Appwrites Sites Hackathon 2025](https://sites-hackathon-2025.appwrite.network) from
+  August 29, 2025 - September 12, 2025. To build and deploy a web app or site using Appwrite Sites
 - I am an active attendee at the [iOS Dev Happy Hour](https://www.iosdevhappyhour.com)
 - I'm building iOS Apps in UIKit and SwiftUI such as [GitHub Followers](https://github.com/rramirez-dev/GitHub-Followers),
   [Math Flash Cards](https://github.com/rramirez-dev/MathFlashCards), [Step Tracker](https://github.com/rramirez-dev/step-tracker)
