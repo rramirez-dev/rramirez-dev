@@ -16,6 +16,8 @@ B.S. Computer Sceince, [Park University](http://www.park.edu)
 
 # What am I working on
 
+- Participating in [Hacktoberfest 2025](https://hacktoberfest.com) by continuing to build out
+  [Tech Hire El Paso](https://tech-hire-elpaso.appwrite.network) site 
 - Participating in the [Appwrites Sites Hackathon 2025](https://sites-hackathon-2025.appwrite.network) from
   August 29, 2025 - September 12, 2025. To build and deploy a web app or site using Appwrite Sites. You can view the project at [Tech Hire El Paso](https://tech-hire-elpaso.appwrite.network)
 - I am an active attendee at the [iOS Dev Happy Hour](https://www.iosdevhappyhour.com)
