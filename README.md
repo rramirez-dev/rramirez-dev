@@ -64,6 +64,7 @@ B.S. Computer Sceince, [Park University](http://www.park.edu)
 
 ### Hacktoberfest 2025
 [![An image of @rramirezdev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rramirezdev)](https://holopin.io/@rramirezdev)
+Hosted a hacktoberfest project to build out a local meetup style website for IT professionals in the El Paso,TX metro area. Visit the repo at [Tech Hire El Paso Repo](https://github.com/rramirez-dev/tech-hire-elpaso). The live site can be found here: [Tech Hire El Paso](https://tech-hire-elpaso.appwrite.network)
 
 ### Hacktoberfest 2023/24
 
