@@ -62,7 +62,10 @@ B.S. Computer Sceince, [Park University](http://www.park.edu)
 
 # Collaborations
 
-### Hacktober Fest 2023/24
+### Hacktoberfest 2025
+[![An image of @rramirezdev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rramirezdev)](https://holopin.io/@rramirezdev)
+
+### Hacktoberfest 2023/24
 
 Collaborated with [Mikaela Caron](https://mikaelacaron.com) on her [Basic Car Maintanence App](https://github.com/mikaelacaron/Basic-Car-Maintenance)
 
