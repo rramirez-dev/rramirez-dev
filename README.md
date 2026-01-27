@@ -7,7 +7,7 @@ wide range of positions from Technical Support Specialist, IT Instructor, IT Tec
 
 - Built Altep/Consillio concept-driven analysis and identification application (**Riskcovery**)
   from the ground up as a member of a five person development team.
-- Migrated the El Paso Intelligence Center (EPIC) legacy Law Enforcement and Alert application
+- Migrated a legacy Law Enforcement and Alert application
   from Oracle Forms to a ASP.NET Web Applicaiton, as a member of a four person software team.
 
 # Education
@@ -15,7 +15,8 @@ wide range of positions from Technical Support Specialist, IT Instructor, IT Tec
 B.S. Computer Sceince, [Park University](http://www.park.edu)
 
 # What am I working on
-
+- Subcontractor for [Gurufaction LLC](www.gurucation.net) working on an answering application usng PHP/Laravel and C#/Blazor.
+# Previous Work
 - Participating in [Hacktoberfest 2025](https://hacktoberfest.com) by continuing to build out
   [Tech Hire El Paso](https://tech-hire-elpaso.appwrite.network) site 
 - Participating in the [Appwrites Sites Hackathon 2025](https://sites-hackathon-2025.appwrite.network) from
