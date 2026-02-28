@@ -15,7 +15,7 @@ wide range of positions from Technical Support Specialist, IT Instructor, IT Tec
 B.S. Computer Sceince, [Park University](http://www.park.edu)
 
 # What am I working on
-- Freelancer for [Gurufaction LLC](www.gurufation.net) working on an answering service application usng PHP/Laravel backend and C#/Blazor frontend.
+- Freelancer for [Gurufaction LLC](http://www.gurufaction.net) working on an answering service application with PHP/Laravel backend and C#/Blazor frontend.
 # Previous Work
 - Participating in [Hacktoberfest 2025](https://hacktoberfest.com) by continuing to build out
   [Tech Hire El Paso](https://tech-hire-elpaso.appwrite.network) site 
