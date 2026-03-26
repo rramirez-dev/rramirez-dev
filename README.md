@@ -18,9 +18,9 @@ B.S. Computer Sceince, [Park University](http://www.park.edu)
 - I am currently migrating an existing answering service application written in Adobe Flex with a Classic PHP backend to a PHP/Laravel backend and C#/Blazor frontend as a Freelance software developer for [Gurufaction LLC](http://www.gurufaction.net).
 # Previous Work
 - Participating in [Hacktoberfest 2025](https://hacktoberfest.com) by continuing to build out
-  [Tech Hire El Paso](https://tech-hire-elpaso.appwrite.network) site 
+  [Tech Hire El Paso Project](https://github.com/rramirez-dev/tech-hire-elpaso) site 
 - Participating in the [Appwrites Sites Hackathon 2025](https://sites-hackathon-2025.appwrite.network) from
-  August 29, 2025 - September 12, 2025. To build and deploy a web app or site using Appwrite Sites. You can view the project at [Tech Hire El Paso](https://tech-hire-elpaso.appwrite.network)
+  August 29, 2025 - September 12, 2025. To build and deploy a web app or site using Appwrite Sites.
 - I am an active attendee at the [iOS Dev Happy Hour](https://www.iosdevhappyhour.com)
 - I'm building iOS Apps in UIKit and SwiftUI such as [GitHub Followers](https://github.com/rramirez-dev/GitHub-Followers),
   [Math Flash Cards](https://github.com/rramirez-dev/MathFlashCards), [Step Tracker](https://github.com/rramirez-dev/step-tracker)
