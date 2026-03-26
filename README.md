@@ -14,8 +14,8 @@ wide range of positions from Technical Support Specialist, IT Instructor, IT Tec
 
 B.S. Computer Sceince, [Park University](http://www.park.edu)
 
-# What am I working ona
-- Freelance software developer for [Gurufaction LLC](http://www.gurufaction.net). I am currently migrating an existing answering service application written in Adobe Flex with a Classic PHP backend to a PHP/Laravel backend and C#/Blazor frontend.
+# What am I working on
+- I am currently migrating an existing answering service application written in Adobe Flex with a Classic PHP backend to a PHP/Laravel backend and C#/Blazor frontend as a Freelance software developer for [Gurufaction LLC](http://www.gurufaction.net).
 # Previous Work
 - Participating in [Hacktoberfest 2025](https://hacktoberfest.com) by continuing to build out
   [Tech Hire El Paso](https://tech-hire-elpaso.appwrite.network) site 
